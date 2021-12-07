@@ -3,3 +3,4 @@ edited in local
 add again
 remote
 local
+lite
